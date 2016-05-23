@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScrollViewTest</string>
+    <string name="but_01">서울대</string>
+    <string name="but_02">경찰대</string>
+    <string name="but_03">한양대</string>
+    <string name="but_04">성균관대</string>
+    <string name="but_05">포항공대</string>
+</resources>
